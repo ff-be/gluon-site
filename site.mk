@@ -57,3 +57,6 @@ GLUON_REGION ?= eu
 
 # Languages to include
 GLUON_LANGS ?= en de
+
+# Build ATH10k based images with 802.11s support
+GLUON_ATH10K_MESH ?= 11s
